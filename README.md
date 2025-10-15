@@ -4,8 +4,6 @@
 
 **Project Link** - ***https://shoppoint.herokuapp.com/***
 
-![screenshot](image/home.PNG)
-
 ## Features and Functionalities 😃
 
 **User features**
